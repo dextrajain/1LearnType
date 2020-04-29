@@ -1,0 +1,3 @@
+<div class="container-xl bg-white text-justify border border-primary">
+Words are counted once you have moved on to the next word. Errors are counted character by character within words. Puncuation is counted as part of the word that precedes it. Mistyped words are counted when you move on to the next word. Accuracy is counted character by character. Words per minute is updated each time you type, based on words completed and moved on from since you first started typing. If you stop in the middle of typing for a while, you will need to start a new test to get an accurate word per minute count. Time to completion is calculated just once, only after you have typed the number of words given in that particular typing test. 
+</div>
